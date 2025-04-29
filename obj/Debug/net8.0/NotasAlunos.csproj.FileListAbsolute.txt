@@ -1,0 +1,15 @@
+C:\Users\danie\OneDrive\Documentos\Projetos\NotasAlunos\NotasAlunos\bin\Debug\net8.0\NotasAlunos.exe
+C:\Users\danie\OneDrive\Documentos\Projetos\NotasAlunos\NotasAlunos\bin\Debug\net8.0\NotasAlunos.deps.json
+C:\Users\danie\OneDrive\Documentos\Projetos\NotasAlunos\NotasAlunos\bin\Debug\net8.0\NotasAlunos.runtimeconfig.json
+C:\Users\danie\OneDrive\Documentos\Projetos\NotasAlunos\NotasAlunos\bin\Debug\net8.0\NotasAlunos.dll
+C:\Users\danie\OneDrive\Documentos\Projetos\NotasAlunos\NotasAlunos\bin\Debug\net8.0\NotasAlunos.pdb
+C:\Users\danie\OneDrive\Documentos\Projetos\NotasAlunos\NotasAlunos\obj\Debug\net8.0\NotasAlunos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\OneDrive\Documentos\Projetos\NotasAlunos\NotasAlunos\obj\Debug\net8.0\NotasAlunos.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Documentos\Projetos\NotasAlunos\NotasAlunos\obj\Debug\net8.0\NotasAlunos.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Documentos\Projetos\NotasAlunos\NotasAlunos\obj\Debug\net8.0\NotasAlunos.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Documentos\Projetos\NotasAlunos\NotasAlunos\obj\Debug\net8.0\NotasAlunos.sourcelink.json
+C:\Users\danie\OneDrive\Documentos\Projetos\NotasAlunos\NotasAlunos\obj\Debug\net8.0\NotasAlunos.dll
+C:\Users\danie\OneDrive\Documentos\Projetos\NotasAlunos\NotasAlunos\obj\Debug\net8.0\refint\NotasAlunos.dll
+C:\Users\danie\OneDrive\Documentos\Projetos\NotasAlunos\NotasAlunos\obj\Debug\net8.0\NotasAlunos.pdb
+C:\Users\danie\OneDrive\Documentos\Projetos\NotasAlunos\NotasAlunos\obj\Debug\net8.0\NotasAlunos.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Documentos\Projetos\NotasAlunos\NotasAlunos\obj\Debug\net8.0\ref\NotasAlunos.dll
